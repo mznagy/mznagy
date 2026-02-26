@@ -1,25 +1,14 @@
-# Hello there! 👋
+# Hello
 
-I'm Mazen, a passionate software engineer from Ghent,Belgium. 
-I love to work on meaningful and challenging projects.
+I'm Mazen, an engineer from Ghent,Belgium.
 
 
-## 📫 How to reach me
+## How to reach me
 
 You can reach me at es-MazenNagy2025@alexu.edu.eg or on IG @mznagy.
 
 
-## 📚 What I'm currently learning
-
-I'm currently enrolled in Bsc in CCE.
-
-
-## 🌱 I’m looking to collaborate on
-
-I'm currently looking to collaborate on challanging projects.
-
-
-## 📖 Quote
+## Quote
 
 “Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us.” 
 
