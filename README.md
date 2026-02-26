@@ -1,6 +1,6 @@
 # Hello
 
-I'm Mazen, an engineer from Ghent,Belgium.
+I'm Mazen, an engineer from Ghent, Belgium.
 
 
 ## How to reach me
